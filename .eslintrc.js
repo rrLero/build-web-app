@@ -55,7 +55,7 @@ module.exports = {
             },
         ],
         'space-in-parens': ERROR,
-        'object-curly-spacing': ERROR,
+        'object-curly-spacing': [ERROR, 'always'],
         'react/prop-types': OFF,
         '@typescript-eslint/explicit-function-return-type': OFF,
         '@typescript-eslint/no-use-before-define': OFF,

@@ -49,6 +49,7 @@ module.exports = () => {
                 src: path.resolve('src/'),
                 scss: path.resolve('src/scss/'),
                 openapi: path.resolve('generated-sources/openapi/'),
+                types: path.resolve('src/types/'),
             },
         },
         plugins: [

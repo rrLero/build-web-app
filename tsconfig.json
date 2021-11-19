@@ -41,6 +41,9 @@
             ],
             "openapi/*": [
                 "generated-sources/openapi/*"
+            ],
+            "types/*": [
+                "src/types/*"
             ]
         }
     },
